@@ -1822,7 +1822,7 @@ border-radius: 30px;
 
 .dot-img-right {
   position: absolute;
-  right:-60px;
+  right:0px;
   bottom: -50px;
   
 }
